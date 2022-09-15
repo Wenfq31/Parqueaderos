@@ -1,0 +1,6 @@
+beans\Reserva.class
+beans\Puesto.class
+beans\Vehiculo.class
+servlets\PruebaServlet.class
+Text\OperacionesBD.class
+connection\DBConnection.class
